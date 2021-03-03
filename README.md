@@ -1,1 +1,1 @@
-# journal2
+# journal-page
